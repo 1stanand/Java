@@ -1,4 +1,4 @@
-package StaticDemo;
+package com.example.staticdemo;
 
 class Cars {
     String brand;

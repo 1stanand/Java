@@ -1,4 +1,4 @@
-package Calculator;
+package com.example.calculator;
 
 public class HelperClass {
     int J = 10;
