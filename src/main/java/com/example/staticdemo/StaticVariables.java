@@ -1,4 +1,4 @@
-package StaticDemo;
+package com.example.staticdemo;
 
 class Phone {
     String Name;

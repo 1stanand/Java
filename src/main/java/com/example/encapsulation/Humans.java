@@ -1,4 +1,4 @@
-package Encapsulation;
+package com.example.encapsulation;
 
 public class Humans {
 
